@@ -11,9 +11,9 @@ their story if it is particularly funny.
 
 Example file format:
 
-<madlib>
-<title>The Great Ice Storm</title>         
-<body> 
+//<madlib>
+//<title>The Great Ice Storm</title>         
+//<body> 
                       
 It was the Winter of <blank><type>year</type></blank>, the end of the
 <blank><type>season</type></blank> semester at 
