@@ -9,11 +9,12 @@ and the type of word that will be used in each blank. After the user has input a
 hit the create story button and their MadLib story will be created. The user can then choose to save
 their story if it is particularly funny.
 
-Example file format:
+Example file format:(View the raw file readme file to see formatting)
 
-//<madlib>
-//<title>The Great Ice Storm</title>         
-//<body> 
+
+<madlib>
+<title>The Great Ice Storm</title>         
+<body> 
                       
 It was the Winter of <blank><type>year</type></blank>, the end of the
 <blank><type>season</type></blank> semester at 
